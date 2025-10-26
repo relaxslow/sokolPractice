@@ -7,7 +7,7 @@
 
 #include "sokol_gfx.h"
 #include "sokol_glue.h"
-
+//test git
 static struct {
     sg_pass_action pass_action;
     sg_bindings bindings;
